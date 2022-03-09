@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 - 🔭 Estou cursando atualmente Desenvolvimento de Sistemas.
 - 🌱 Estou aprendendo HTML, CSS, JAVASCRIPT e PHYTON.
