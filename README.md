@@ -8,9 +8,9 @@
 - 💻 E-mail: allanacervati@gmail.com
 
 <div align="center">
-  <a href="https://github.com/Allana Cervati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allana Cervati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allana Cervati&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/AllanaCervati">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanaCervati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanaCervati&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
